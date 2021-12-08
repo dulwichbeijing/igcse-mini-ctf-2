@@ -5,7 +5,7 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "local-build": "vue-cli-service build",
-    "build": "vue-cli-service build && git add . && git commit -m 'Latest production build' && git subtree push --prefix dist origin webpage",
+    "build": "vue-cli-service build && git add . && git commit -m 'Latest production build' && git subtree push --prefix dist origin web",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
