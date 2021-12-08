@@ -22,44 +22,45 @@ export default new Vuex.Store({
         solved: false
       },
       {
-        name: "What's your vector Victor?",
+        name: "",
         points: 200,
-        detail: "Take a look at the following SVG file, can you find the secret flag in here?",
-        files: ["https://raw.githubusercontent.com/dulwichbeijing/igcse-mini-ctf/main/public/task-files/task-2.svg"],
-        md5: "2e809b534c70e9b89566dcf355ca2a44", // done
+        detail: "",
+        files: [""],
+        md5: "", // done
         solved: false
       },
       {
-        name: "Who is the creator?",
+        name: "Let's get logical",
         points: 200,
-        detail: "Did you know within all files there is data about data? That's so meta.",
-        files: ["https://raw.githubusercontent.com/dulwichbeijing/igcse-mini-ctf/main/public/task-files/task3.jpg"],
-        md5: "8bd98ae3d0f2398540c6c157d819a5b1", // done
+        detail: "Only one combination of inputs will have a positive output, format your flag by giving the letter then the binary value. E.g.:",
+        monospace: "dcbCTF{a0b0c0d0e0} // if all inputs are 0",
+        files: ["https://raw.githubusercontent.com/dulwichbeijing/igcse-mini-ctf-2/main/public/task-files/task3.jpg"],
+        md5: "", // done
         solved: false
       },
       {
-        name: "Where in the world?",
+        name: "TODO",
         points: 200,
-        detail: "Please tell me the name of this sculpture, give your answer in the format:",
-        monospace: "dcbCTF{sculpture_name}",
-        files: ["https://raw.githubusercontent.com/dulwichbeijing/igcse-mini-ctf/main/public/task-files/task4.jpg"],
-        md5: "b9c9ed8a17e4ee05b9bf90f19a835729", // done
+        detail: "",
+        monospace: "",
+        files: [""],
+        md5: "", // done
         solved: false
       },
       {
-        name: "Open this file",
+        name: "TODO",
         points: 200,
-        detail: "I think something went wrong when I copied this PNG file, a few 'bits' have gone missing - 64 of them to be precise.",
-        files: ["https://raw.githubusercontent.com/dulwichbeijing/igcse-mini-ctf/main/public/task-files/task5"],
-        md5: "f80d28a05444bbebfc1306dd945bd40a", // done
+        detail: "",
+        files: [""],
+        md5: "",
         solved: false
       },
       {
-        name: "Scan this QR code",
+        name: "TODO",
         points: 200,
-        detail: "It really is as simple as it sounds...",
-        files: ["https://raw.githubusercontent.com/dulwichbeijing/igcse-mini-ctf/main/public/task-files/task6.png"],
-        md5: "659d1a73e65e9b77a069b4b7515119a8", // done
+        detail: "",
+        files: [""],
+        md5: "",
         solved: false
       }
     ]
