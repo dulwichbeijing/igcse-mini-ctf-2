@@ -37,7 +37,8 @@
       <li><a href="https://github.com/dulwichbeijing/igcse-mini-ctf-2" target="_blank">Competition source code</a></li>
       <li><a href="https://www.asciitable.com/" target="_blank">ASCII Table</a></li>
       <li><a href="https://morsecode.ninja/reference/index.html" target="_blank">Morse Code Reference</a></li>
-      <li><a href="https://logic.ly/demo/">Logic Circuit Builder</a></li>
+      <li><a href="https://logic.ly/demo/" target="_blank">Logic Circuit Builder</a></li>
+      <li><a href="https://cryptii.com/" target="_blank">Text encoder and decoder</a></li>
       <li><a href="https://www.youtube.com/watch?v=wSYAZnQmffg" target="_blank">ΔMi−1 = −∂Σn=1NDi[n][Σj∈C{i}Fji[n − 1] + Fexti[[n−1]]</a></li>
       <li><a href="https://www.kite.com/python/answers/how-to-edit-a-file-in-python" target="_blank">Python and text files</a></li>
     </ul>
