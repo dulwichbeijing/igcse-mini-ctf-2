@@ -34,13 +34,12 @@
     
     <h3>Extra details</h3>
     <ul>
-      <li><a href="https://github.com/dulwichbeijing/igcse-mini-ctf" target="_blank">Competition source code</a></li>
-      <li><a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Element/svg" target="_blank">SVG Reference</a></li>
-      <li><a href="https://www.bbc.co.uk/bitesize/guides/zqyrq6f/revision/3" target="_blank">What is metadata?</a></li>
-      <li><a href="https://www.garykessler.net/library/file_sigs.html">File Signatures</a></li>
-      <li><a href="https://hexed.it/" target="_blank">Hexadecimal Editor</a></li>
-      <li><a href="https://imagemagick.org/" target="_blank">ImageMagick</a></li>
-      <li><a href="https://www.exifdata.com/" target="_blank">EXIF data viewer</a></li>
+      <li><a href="https://github.com/dulwichbeijing/igcse-mini-ctf-2" target="_blank">Competition source code</a></li>
+      <li><a href="https://www.asciitable.com/" target="_blank">ASCII Table</a></li>
+      <li><a href="https://morsecode.ninja/reference/index.html" target="_blank">Morse Code Reference</a></li>
+      <li><a href="https://logic.ly/demo/">Logic Circuit Builder</a></li>
+      <li><a href="https://www.youtube.com/watch?v=wSYAZnQmffg" target="_blank">ΔMi−1 = −∂Σn=1NDi[n][Σj∈C{i}Fji[n − 1] + Fexti[[n−1]]</a></li>
+      <li><a href="https://www.kite.com/python/answers/how-to-edit-a-file-in-python" target="_blank">Python and text files</a></li>
     </ul>
   </div>
 </template>

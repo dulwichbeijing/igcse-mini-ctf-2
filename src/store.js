@@ -60,7 +60,7 @@ export default new Vuex.Store({
       {
         name: "Lost in sound",
         points: 400,
-        detail: "Did you know it's possible to hide messages in audio files by using different frequencies? Apex Twin did it!",
+        detail: "Did you know it's possible to hide messages in audio files by using different frequencies? Aphex Twin did it!",
         monospace: "",
         files: ["https://raw.githubusercontent.com/dulwichbeijing/igcse-mini-ctf-2/main/public/task-files/task6.wav"],
         md5: "88fe387a462aadc030c3973d4e1f0a09", // done
