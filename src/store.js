@@ -49,7 +49,7 @@ export default new Vuex.Store({
         solved: false
       },
       {
-        name: "Read me",
+        name: "Only zeroes and ones",
         points: 200,
         detail: "As you know everything is binary, even this flag...",
         monospace: "01100100 01100011 01100010 01000011 01010100 01000110 01111011 01100001 01110011 01100011 01101001 01101001 01011111 01110111 01101000 01100001 01110100 01011111 01111001 01101111 01110101 01011111 01100100 01101001 01100100 01111101 ",
@@ -58,11 +58,21 @@ export default new Vuex.Store({
         solved: false
       },
       {
-        name: "TODO",
+        name: "What does Caesar say?",
         points: 200,
-        detail: "",
-        files: [""],
-        md5: "",
+        detail: "Decode this flag using one of the oldest encryption methods...",
+        monospace: "tsrSJV{adyvu_yd_jxu_rqsa}",
+        files: [],
+        md5: "caed85f00dd7cf802c2db7ac3aa5a340",
+        solved: false
+      },
+      {
+        name: "Inspector Morse",
+        points: 200,
+        detail: "I picked up this message while a boat was passing by, what does it say? Make sure you use the usual flag format.",
+        monospace: ".-- . .- - .... . .-. / .-. . .--. --- .-. - --..-- / -.-. .-.. --- ..- -.. -.-- / ... -.- .. . ... --..-- / .--. --- --- .-. / ...- .. ... .. -... .. .-.. .. - -.-- / .- -. -.. / .- / ..-. .-.. .- --. / --- ..-. / -... . . .--. -... . . .--. -... --- --- .--. -... --- --- .--.",
+        files: [],
+        md5: "8f3bd12ca206533e7abbf33a56fa72bb",
         solved: false
       }
     ]
