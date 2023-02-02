@@ -36,6 +36,8 @@
     <ul>
       <li><a href="https://github.com/dulwichbeijing/igcse-mini-ctf-2" target="_blank">Competition source code</a></li>
       <li><a href="https://www.asciitable.com/" target="_blank">ASCII Table</a></li>
+      <li><a href="https://isaaccomputerscience.org/concepts/net_comm_error_checking">Error checking with parity</a></li>
+      <li><a href="https://isbn-information.com/check-digit-for-the-13-digit-isbn.html">Maths for ISBN numbers</a></li>
       <li><a href="https://morsecode.ninja/reference/index.html" target="_blank">Morse Code Reference</a></li>
       <li><a href="https://logic.ly/demo/" target="_blank">Logic Circuit Builder</a></li>
       <li><a href="https://cryptii.com/" target="_blank">Text encoder and decoder</a></li>

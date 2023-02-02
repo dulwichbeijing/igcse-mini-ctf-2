@@ -45,7 +45,25 @@ export default new Vuex.Store({
         detail: "Decode this flag using one of the oldest encryption methods...",
         monospace: "tsrSJV{adyvu_yd_jxu_rqsa}",
         files: [],
-        md5: "caed85f00dd7cf802c2db7ac3aa5a340",
+        md5: "caed85f00dd7cf802c2db7ac3aa5a340", // done
+        solved: false
+      },
+      {
+        name: "Odd or even",
+        points: 200,
+        detail: "I've sent 7-bits of binary data and added a parity bit. Unfortunately there is a problem with one of the bits I've sent. Please identify the binary byte that is incorrect, we're using even parity.",
+        monospace: "01010101, 00000000, 11001100, 11011001, 10011001, 00011000, 11111111, 10010000, 01010101, 00000000, 11001100, 11011001, 10001001, 00011000, 11111111, 10010000",
+        files: [],
+        md5: "1f92d7cbc7cbac94ee6c6ebe8a05c061", // done
+        solved: false
+      },
+      {
+        name: "Just one digit missing",
+        points: 200,
+        detail: "We're trying to enter a 13-digit book ISBN number into a database but the last digit is missing!<br> Please calculate the missing final number: 978-1-398-31828-X. Give your answer in the format:",
+        monospace: "dcbCTF{978-1-398-31828-?}",
+        files: [],
+        md5: "38d5d4469e95354ebe55c82488d03345", // done
         solved: false
       },
       {
