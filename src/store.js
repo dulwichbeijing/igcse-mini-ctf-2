@@ -51,7 +51,7 @@ export default new Vuex.Store({
       {
         name: "Odd or even",
         points: 200,
-        detail: "I've sent 7-bits of binary data and added a parity bit. Unfortunately there is a problem with one of the bits I've sent. Please identify the binary byte that is incorrect, we're using even parity.",
+        detail: "I've been transmitting bytes with 7-bits of binary data a parity bit for error detection. Unfortunately there is a problem with one of the bits I've sent. Please identify the byte that is incorrect, we're using even parity.",
         monospace: "01010101, 00000000, 11001100, 11011001, 10011001, 00011000, 11111111, 10010000, 01010101, 00000000, 11001100, 11011001, 10001001, 00011000, 11111111, 10010000",
         files: [],
         md5: "1f92d7cbc7cbac94ee6c6ebe8a05c061", // done
